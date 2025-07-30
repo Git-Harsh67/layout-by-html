@@ -1,1 +1,77 @@
-# layout-by-html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>layout</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>BOX MODEL</h1>
+    </header>
+    <div class="container">
+      <section>
+        <h2>Margin</h2>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias
+          consequatur incidunt quis pariatur, reprehenderit repudiandae
+          recusandae autem suscipit necessitatibus error tenetur vero nulla
+          nostrum culpa ducimus repellat eligendi! Quia, ratione reiciendis.
+          Labore culpa corrupti sint ipsum illo repudiandae corporis distinctio
+          inventore facilis molestiae. Provident mollitia tempora pariatur
+          perspiciatis deserunt dicta aut adipisci impedit, saepe recusandae
+          doloribus reiciendis debitis voluptatem fuga totam corporis ipsum
+          exercitationem incidunt repellat placeat.
+        </p>
+      </section>
+      <section>
+        <h2>Border</h2>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias
+          consequatur incidunt quis pariatur, reprehenderit repudiandae
+          recusandae autem suscipit necessitatibus error tenetur vero nulla
+          nostrum culpa ducimus repellat eligendi! Quia, ratione reiciendis.
+          Labore culpa corrupti sint ipsum illo repudiandae corporis distinctio
+          inventore facilis molestiae. Provident mollitia tempora pariatur
+          perspiciatis deserunt dicta aut adipisci impedit, saepe recusandae
+          doloribus reiciendis debitis voluptatem fuga totam corporis ipsum
+          exercitationem incidunt repellat placeat. 
+        </p>
+      </section>
+      <section>
+        <h2>Padding</h2>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias
+          consequatur incidunt quis pariatur, reprehenderit repudiandae
+          recusandae autem suscipit necessitatibus error tenetur vero nulla
+          nostrum culpa ducimus repellat eligendi! Quia, ratione reiciendis.
+          Labore culpa corrupti sint ipsum illo repudiandae corporis distinctio
+          inventore facilis molestiae. Provident mollitia tempora pariatur
+          perspiciatis deserunt dicta aut adipisci impedit, saepe recusandae
+          doloribus reiciendis debitis voluptatem fuga totam corporis ipsum
+          exercitationem incidunt repellat placeat.
+        </p>
+      </section>
+      <section>
+        <h2>Content</h2>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias
+          consequatur incidunt quis pariatur, reprehenderit repudiandae
+          recusandae autem suscipit necessitatibus error tenetur vero nulla
+          nostrum culpa ducimus repellat eligendi! Quia, ratione reiciendis.
+          Labore culpa corrupti sint ipsum illo repudiandae corporis distinctio
+          inventore facilis molestiae. Provident mollitia tempora pariatur
+          perspiciatis deserunt dicta aut adipisci impedit, saepe recusandae
+          doloribus reiciendis debitis voluptatem fuga totam corporis ipsum
+          exercitationem incidunt repellat placeat.
+        </p>
+      </section>
+    </div>
+    <footer>
+      <div>
+        <h1>THE END</h1>
+      </div>
+    </footer>
+  </body>
+</html>
